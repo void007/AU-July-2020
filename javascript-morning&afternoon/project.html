@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <script type="text/javascript">
+   	function validate(){
+   		var text=document.getElementById("stringentered").value;
+   		if(text==""){
+   			alert("Please!enter string");
+   		}
+   		else{
+   		var pat=/((\bhot|\bdot|\bnot) .* (ho+t\b|do+t\b|no+t\b)|(\bhot|\bdot|\bnot) .?(ho+t\b|do+t\b|no+t\b))/;
+        var res=pat.test(text);
+   		// document.writeln(res);
+   		// document.writeln(text);
+   		document.getElementById('spanResult').innerHTML=res;
+   	}
+   	}
+
+   	function dothings(){
+	//Assuming array is not null and have atlest one element
+   		var arr=[30,20,10,40,50,60,70,80];
+   		var sortArray=arr.sort();
+   		var filterArray=sortArray.filter(check);
+   		function check(num){
+   			return num>10;
+   		}
+ 
+   		var addOne=filterArray.map(pass);
+        function pass(num){
+        	return num+1;
+        }   		
+		var Asize=addOne.length;
+		//if array size is less than 5 then we'll print values from index 1 to size of the array
+        var final=(Asize=>5)?addOne.slice(1,5):addOne.slice(1,Asize);
+        // document.write(arr);
+        // document.writeln(sortArray);
+        document.getElementById('ar').innerHTML=sortArray;
+        document.getElementById('ar2').innerHTML=filterArray;
+        document.getElementById('ar3').innerHTML=addOne;
+        document.getElementById('ar4').innerHTML=final;
+
+   	}
+   </script>
+	<title>JavaScript Project</title>
+</head>
+<body>
+     <form name="myf">
+        <p style="text-weight:bold color:blue"> Enter your string here</p>
+     	<input id="stringentered"  type="text" placeholder="Enter your string for regex test" style="width:18%" />
+     	<!-- <input type="submit" value="Submit"><br/> -->
+        <button onclick="validate(); return false" style="padding-left:30px; padding-right:30px">Submitt</button><br/>
+        </form>
+     	<p id="spanResult" style="text-align:center">
+        
+    </p>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <form>
+    <button onclick="dothings(); return false">Array Functions</button>
+     </form>
+     <p id="ar" style="text-align:center"></p>
+     <p id="ar2" style="text-align:center"></p>
+     <p id="ar3" style="text-align:center"></p>
+     <p id="ar4" style="text-align:center"></p>
+</body>
+</html>
