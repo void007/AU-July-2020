@@ -1,0 +1,10 @@
+For fontawesome, run this command:
+npm i --save @fortawesome/fontawesome-svg-core
+  npm install --save @fortawesome/free-solid-svg-icons
+  npm install --save @fortawesome/react-fontawesome
+
+Refernce:
+https://fontawesome.com/how-to-use/on-the-web/using-with/react:
+
+For Flip-move:
+npm i -S react-flip-move
