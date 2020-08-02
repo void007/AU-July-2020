@@ -1,0 +1,11 @@
+C:\Users\void\source\repos\linqassignent\linqassignent\bin\Debug\netcoreapp3.1\linqassignent.exe
+C:\Users\void\source\repos\linqassignent\linqassignent\bin\Debug\netcoreapp3.1\linqassignent.deps.json
+C:\Users\void\source\repos\linqassignent\linqassignent\bin\Debug\netcoreapp3.1\linqassignent.runtimeconfig.json
+C:\Users\void\source\repos\linqassignent\linqassignent\bin\Debug\netcoreapp3.1\linqassignent.runtimeconfig.dev.json
+C:\Users\void\source\repos\linqassignent\linqassignent\bin\Debug\netcoreapp3.1\linqassignent.dll
+C:\Users\void\source\repos\linqassignent\linqassignent\bin\Debug\netcoreapp3.1\linqassignent.pdb
+C:\Users\void\source\repos\linqassignent\linqassignent\obj\Debug\netcoreapp3.1\linqassignent.csprojAssemblyReference.cache
+C:\Users\void\source\repos\linqassignent\linqassignent\obj\Debug\netcoreapp3.1\linqassignent.AssemblyInfoInputs.cache
+C:\Users\void\source\repos\linqassignent\linqassignent\obj\Debug\netcoreapp3.1\linqassignent.AssemblyInfo.cs
+C:\Users\void\source\repos\linqassignent\linqassignent\obj\Debug\netcoreapp3.1\linqassignent.dll
+C:\Users\void\source\repos\linqassignent\linqassignent\obj\Debug\netcoreapp3.1\linqassignent.pdb
