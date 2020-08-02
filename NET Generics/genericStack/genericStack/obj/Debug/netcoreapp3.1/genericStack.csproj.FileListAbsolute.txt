@@ -1,0 +1,10 @@
+C:\Users\void\source\repos\genericStack\genericStack\bin\Debug\netcoreapp3.1\genericStack.exe
+C:\Users\void\source\repos\genericStack\genericStack\bin\Debug\netcoreapp3.1\genericStack.deps.json
+C:\Users\void\source\repos\genericStack\genericStack\bin\Debug\netcoreapp3.1\genericStack.runtimeconfig.json
+C:\Users\void\source\repos\genericStack\genericStack\bin\Debug\netcoreapp3.1\genericStack.runtimeconfig.dev.json
+C:\Users\void\source\repos\genericStack\genericStack\bin\Debug\netcoreapp3.1\genericStack.dll
+C:\Users\void\source\repos\genericStack\genericStack\bin\Debug\netcoreapp3.1\genericStack.pdb
+C:\Users\void\source\repos\genericStack\genericStack\obj\Debug\netcoreapp3.1\genericStack.AssemblyInfoInputs.cache
+C:\Users\void\source\repos\genericStack\genericStack\obj\Debug\netcoreapp3.1\genericStack.AssemblyInfo.cs
+C:\Users\void\source\repos\genericStack\genericStack\obj\Debug\netcoreapp3.1\genericStack.dll
+C:\Users\void\source\repos\genericStack\genericStack\obj\Debug\netcoreapp3.1\genericStack.pdb

@@ -1,0 +1,11 @@
+C:\Users\void\source\repos\genericQueue\genericQueue\bin\Debug\netcoreapp3.1\genericQueue.exe
+C:\Users\void\source\repos\genericQueue\genericQueue\bin\Debug\netcoreapp3.1\genericQueue.deps.json
+C:\Users\void\source\repos\genericQueue\genericQueue\bin\Debug\netcoreapp3.1\genericQueue.runtimeconfig.json
+C:\Users\void\source\repos\genericQueue\genericQueue\bin\Debug\netcoreapp3.1\genericQueue.runtimeconfig.dev.json
+C:\Users\void\source\repos\genericQueue\genericQueue\bin\Debug\netcoreapp3.1\genericQueue.dll
+C:\Users\void\source\repos\genericQueue\genericQueue\bin\Debug\netcoreapp3.1\genericQueue.pdb
+C:\Users\void\source\repos\genericQueue\genericQueue\obj\Debug\netcoreapp3.1\genericQueue.csprojAssemblyReference.cache
+C:\Users\void\source\repos\genericQueue\genericQueue\obj\Debug\netcoreapp3.1\genericQueue.AssemblyInfoInputs.cache
+C:\Users\void\source\repos\genericQueue\genericQueue\obj\Debug\netcoreapp3.1\genericQueue.AssemblyInfo.cs
+C:\Users\void\source\repos\genericQueue\genericQueue\obj\Debug\netcoreapp3.1\genericQueue.dll
+C:\Users\void\source\repos\genericQueue\genericQueue\obj\Debug\netcoreapp3.1\genericQueue.pdb
