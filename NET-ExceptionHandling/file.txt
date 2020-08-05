@@ -1,0 +1,2 @@
+Reading the file for the purpose of the exception handling.
+Reading the second line as well.
