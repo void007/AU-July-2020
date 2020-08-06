@@ -1,0 +1,11 @@
+C:\Users\void\source\repos\DelegationsnEvents_2nd\DelegationsnEvents_2nd\bin\Debug\netcoreapp3.1\DelegationsnEvents_2nd.exe
+C:\Users\void\source\repos\DelegationsnEvents_2nd\DelegationsnEvents_2nd\bin\Debug\netcoreapp3.1\DelegationsnEvents_2nd.deps.json
+C:\Users\void\source\repos\DelegationsnEvents_2nd\DelegationsnEvents_2nd\bin\Debug\netcoreapp3.1\DelegationsnEvents_2nd.runtimeconfig.json
+C:\Users\void\source\repos\DelegationsnEvents_2nd\DelegationsnEvents_2nd\bin\Debug\netcoreapp3.1\DelegationsnEvents_2nd.runtimeconfig.dev.json
+C:\Users\void\source\repos\DelegationsnEvents_2nd\DelegationsnEvents_2nd\bin\Debug\netcoreapp3.1\DelegationsnEvents_2nd.dll
+C:\Users\void\source\repos\DelegationsnEvents_2nd\DelegationsnEvents_2nd\bin\Debug\netcoreapp3.1\DelegationsnEvents_2nd.pdb
+C:\Users\void\source\repos\DelegationsnEvents_2nd\DelegationsnEvents_2nd\obj\Debug\netcoreapp3.1\DelegationsnEvents_2nd.csprojAssemblyReference.cache
+C:\Users\void\source\repos\DelegationsnEvents_2nd\DelegationsnEvents_2nd\obj\Debug\netcoreapp3.1\DelegationsnEvents_2nd.AssemblyInfoInputs.cache
+C:\Users\void\source\repos\DelegationsnEvents_2nd\DelegationsnEvents_2nd\obj\Debug\netcoreapp3.1\DelegationsnEvents_2nd.AssemblyInfo.cs
+C:\Users\void\source\repos\DelegationsnEvents_2nd\DelegationsnEvents_2nd\obj\Debug\netcoreapp3.1\DelegationsnEvents_2nd.dll
+C:\Users\void\source\repos\DelegationsnEvents_2nd\DelegationsnEvents_2nd\obj\Debug\netcoreapp3.1\DelegationsnEvents_2nd.pdb

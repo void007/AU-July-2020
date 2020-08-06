@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DelagatesnEvents_3rd/1.0.0": {
+        "runtime": {
+          "DelagatesnEvents_3rd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelagatesnEvents_3rd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

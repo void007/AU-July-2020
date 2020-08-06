@@ -1,0 +1,11 @@
+C:\Users\void\source\repos\DelagatesnEvents_3rd\DelagatesnEvents_3rd\bin\Debug\netcoreapp3.1\DelagatesnEvents_3rd.exe
+C:\Users\void\source\repos\DelagatesnEvents_3rd\DelagatesnEvents_3rd\bin\Debug\netcoreapp3.1\DelagatesnEvents_3rd.deps.json
+C:\Users\void\source\repos\DelagatesnEvents_3rd\DelagatesnEvents_3rd\bin\Debug\netcoreapp3.1\DelagatesnEvents_3rd.runtimeconfig.json
+C:\Users\void\source\repos\DelagatesnEvents_3rd\DelagatesnEvents_3rd\bin\Debug\netcoreapp3.1\DelagatesnEvents_3rd.runtimeconfig.dev.json
+C:\Users\void\source\repos\DelagatesnEvents_3rd\DelagatesnEvents_3rd\bin\Debug\netcoreapp3.1\DelagatesnEvents_3rd.dll
+C:\Users\void\source\repos\DelagatesnEvents_3rd\DelagatesnEvents_3rd\bin\Debug\netcoreapp3.1\DelagatesnEvents_3rd.pdb
+C:\Users\void\source\repos\DelagatesnEvents_3rd\DelagatesnEvents_3rd\obj\Debug\netcoreapp3.1\DelagatesnEvents_3rd.csprojAssemblyReference.cache
+C:\Users\void\source\repos\DelagatesnEvents_3rd\DelagatesnEvents_3rd\obj\Debug\netcoreapp3.1\DelagatesnEvents_3rd.AssemblyInfoInputs.cache
+C:\Users\void\source\repos\DelagatesnEvents_3rd\DelagatesnEvents_3rd\obj\Debug\netcoreapp3.1\DelagatesnEvents_3rd.AssemblyInfo.cs
+C:\Users\void\source\repos\DelagatesnEvents_3rd\DelagatesnEvents_3rd\obj\Debug\netcoreapp3.1\DelagatesnEvents_3rd.dll
+C:\Users\void\source\repos\DelagatesnEvents_3rd\DelagatesnEvents_3rd\obj\Debug\netcoreapp3.1\DelagatesnEvents_3rd.pdb
