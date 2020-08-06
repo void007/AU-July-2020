@@ -1,0 +1,11 @@
+C:\Users\void\source\repos\Excercise1\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.exe
+C:\Users\void\source\repos\Excercise1\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.deps.json
+C:\Users\void\source\repos\Excercise1\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.runtimeconfig.json
+C:\Users\void\source\repos\Excercise1\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.runtimeconfig.dev.json
+C:\Users\void\source\repos\Excercise1\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.dll
+C:\Users\void\source\repos\Excercise1\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.pdb
+C:\Users\void\source\repos\Excercise1\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.csprojAssemblyReference.cache
+C:\Users\void\source\repos\Excercise1\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.AssemblyInfoInputs.cache
+C:\Users\void\source\repos\Excercise1\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.AssemblyInfo.cs
+C:\Users\void\source\repos\Excercise1\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.dll
+C:\Users\void\source\repos\Excercise1\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.pdb
